@@ -1,0 +1,303 @@
+
+body{
+	font-family: 'Open Sans Condensed', sans-serif;
+	margin: 0;
+	padding: 0;
+
+}
+
+header{
+	background-color: rgb(62, 41, 34);
+    padding: 10px 0;
+}
+
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.social-box{
+	    width: 50%;
+    float: left;
+}
+
+.contact-box{
+	    width: 50%;
+    float: left;
+    padding: 7px 0px;
+}
+
+.contact-box p{
+	        text-align: right;
+    margin: 0;
+    color: white;
+}
+
+.social-box ul{
+	    margin: 0;
+    padding: 0;
+}
+
+.social-box ul li{
+	    display: inline-block;
+    list-style: none;
+    margin: 0;
+    padding: 0px 10px 4px 0px;
+}
+
+.social-box ul li a{
+	    text-align: right;
+    color: #fff;
+    text-decoration: none;
+}
+
+.fa{
+  padding: 5px;
+  font-size: 15px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 3px 2px;
+  background-color: #543131;
+  color: white;
+}
+.fa:hover {
+    opacity: 0.5;
+
+}
+
+.container-pad{
+	    background-color: white;
+}
+.logo{
+	    width: 15%;
+	    float:left;
+}
+
+
+.menu ul{
+	width: 85%;
+	float: left;
+}
+
+.menu ul{
+	margin: 0;
+	padding: 0;
+	text-align: right;
+}
+.menu ul li{
+	list-style: none;
+	display: inline-block;
+}
+
+.menu ul li a{
+	display: block;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 10px 20px;
+	color: #222;
+}
+
+.banner{
+     background: url(../image/whale.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 10% 0 0;
+}
+
+.banner-text{
+	text-align: center;
+	padding: 30px 0 200px 0px;
+}
+
+.banner-text h1{
+          font-size: 36px; 
+          color: #333; 
+          font-weight: bold; 
+          height: 15px;
+}
+
+.join{
+	       background: white;
+}
+
+.join-us h1{
+	    text-align: center;
+}
+
+.join-us p{
+	    text-align: center;
+}
+
+.one{
+	      width: 25%;
+    height: 250px;
+    float: left;
+    box-sizing: border-box;
+           padding: 10px 20px 5px 10px;
+        text-align: center;
+}
+
+.one img{
+	border-radius: 50%
+}
+
+.two{
+	     width: 25%;
+    height: 250px;
+    float: left;
+    box-sizing: border-box;
+           padding: 10px 20px 5px 10px;
+        text-align: center;
+}
+
+.two img{
+	border-radius: 50%
+}
+
+.three{
+	width: 25%;
+    height: 250px;
+    float: left;
+    box-sizing: border-box;
+       padding: 10px 20px 5px 10px;
+    text-align: center;
+}
+
+.three img{
+	border-radius: 50%
+}
+
+.four{
+	        width: 25%;
+    height: 250px;
+    float: left;
+    box-sizing: border-box;
+       padding: 10px 20px 5px 10px;
+    text-align: center;
+}
+
+.four img{
+	border-radius: 50%
+}
+
+.left{
+	    width: 50%;
+    float: left;
+    background: rgb(244, 244, 244);
+
+}
+
+.signup{
+	width: 40%;
+    float: right;
+    text-align: center;
+    background: rgb(244, 244, 244);
+
+}
+
+.click-image{
+	   background: url(../image/tiger.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+        padding: 15% 0 0;
+        float: left;
+            width: 50%;
+}
+
+.top-footer{
+	    background-color: rgb(62, 41, 34);
+}
+
+
+.top-footer p{
+	      color: #9E9E9E;
+}
+
+
+.footer{
+	       background: #3e3e40;
+        padding: 0px 0
+}
+
+.footer p{
+	      color: #9E9E9E;
+}
+
+.about{
+	    background: rgb(244, 244, 244);
+}
+
+.click-here{
+	    text-align: center;
+}
+
+.form{
+	background: rgba(148, 154, 158, 0.45);
+    margin: 30px auto;
+    padding: 36px 0 58px 0px;
+}
+
+h2{
+	font-size: 20px;
+	color: #333;
+	font-weight: bold;
+	height: 15px;
+	text-align: center;"
+}
+
+.youtube{
+	    text-align: center;
+}
+.map{
+	    text-align: center;
+}
+
+.copyright{
+	    width: 50%;
+    float: left;
+}
+
+.copyright p{
+	    margin: 7px;
+      font-weight: bold;
+      font-size: 11px;
+}
+
+.copyright-menu{
+        font-size: 15px;
+}
+
+.copyright-menu ul{
+	margin: 0;
+	padding: 0;
+	text-align: right;
+}
+.copyright-menu ul li{
+	list-style: none;
+	display: inline-block;
+}
+
+.copyright-menu ul li a{
+	display: block;
+	text-decoration: none;
+	text-transform: uppercase;
+	    padding: 6px 8px;
+    color: rgb(158, 158, 158);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
